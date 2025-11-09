@@ -132,3 +132,6 @@ pop_test_function(population2)
 
 print("\nTEST CASE POPULATION 3:")
 pop_test_function(population3)
+
+print("\n")
+print(f"{test_z_score_function()}")
