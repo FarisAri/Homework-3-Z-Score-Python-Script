@@ -112,3 +112,5 @@ def z_score(x, mu, sigma):
     z_score = (x - mu) / sigma
 
     return z_score # Place the calculated z-score result between the return statement and this comment so it will be returned by the z_score function
+
+print(f"{test_z_score_function()}")
